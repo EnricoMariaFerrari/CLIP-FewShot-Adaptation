@@ -28,7 +28,7 @@ We also experimented with an **ensemble strategy**, where multiple models traine
 
 ## Repository Structure
 
-* `notebook.ipynb` – main notebook containing all experiments and results
+* `clip_notebook.ipynb` – main notebook containing all experiments and results
 
 ## Conclusion
 
