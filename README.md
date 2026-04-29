@@ -1,10 +1,10 @@
-# CLIP Few-Shot Adaptation
+# CLIP Few-Shot Adaptation with Distillation
 
 **Authors:** Enrico Ferrari, Sebastiano Turco
 
 ## Overview
 
-This project explores **efficient strategies to fine-tune CLIP** while preserving its strong zero-shot capabilities. Instead of full retraining, we focus on **Parameter-Efficient Fine-Tuning (PEFT)** methods and introduce a **distillation-based regularization** to improve generalization on unseen classes.
+This project explores **efficient strategies to fine-tune CLIP** for image classification on the Flowers102 dataset, while preserving its strong zero-shot capabilities. Instead of full retraining, we focus on **Parameter-Efficient Fine-Tuning (PEFT)** methods and introduce a **distillation-based regularization** to improve generalization on unseen classes.
 
 ## Methods
 
